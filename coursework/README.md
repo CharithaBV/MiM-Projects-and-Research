@@ -1,6 +1,6 @@
 # Coursework & Applied Management Studies
 **Master in Management | University of Liverpool Management School**  
-**Author:** Charitha Balaka Venkatareddy (ID: `201862489`)
+**Author:** Charitha Balaka Venkatareddy
 
 ---
 

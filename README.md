@@ -16,7 +16,6 @@
 | Academic Parameter | Institutional Record |
 |---|---|
 | **Author** | Charitha Balaka Venkatareddy (Charitha B.V.) |
-| **Student Identifier** | `201862489` |
 | **Degree Awarded** | Master in Management (MiM) |
 | **Faculty & School** | University of Liverpool Management School (ULMS), United Kingdom |
 | **Business School Accreditation** | Triple-Crown Accredited (AACSB, AMBA, EQUIS) |
