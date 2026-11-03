@@ -1,6 +1,6 @@
 # Coursework & Applied Management Studies
 **Master in Management | University of Liverpool Management School**  
-**Author:** Charitha Balaka Venkatareddy
+**Author:** Charitha BV
 
 ---
 
@@ -34,7 +34,7 @@ This directory contains the core academic deliverables completed during the Mast
 * **Key Findings:**
   - *The Sociotechnical Divergence:* High managerial interest during subsidized pilots often collapses upon transition to routine operations due to unaddressed workflow friction and regulatory constraints (BVLOS).
   - *The Validity Gradient:* Clinical evidence is robust for resilient payloads (whole blood) but degrades sharply for fragile biologicals (monoclonal antibodies, organs), where flight vibration and altitude fluctuations induce protein aggregation.
-  - *Simulation Optimism vs. Ecological Reality:* Operational models consistently overestimate fleet reliability by assuming deterministic weather, clear airspace, and zero dispatch friction.
+  - *Simulation Optimism vs. Ecological Reality:* Operational models systematically overestimate fleet reliability by assuming deterministic weather, clear airspace, and zero dispatch friction.
 
 ---
 

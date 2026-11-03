@@ -4,7 +4,7 @@
 [![Institution: University of Liverpool](https://img.shields.io/badge/Institution-University%20of%20Liverpool-002147.svg)](https://www.liverpool.ac.uk/)
 [![School: ULMS](https://img.shields.io/badge/School-Management%20School%20(ULMS)-D41B2C.svg)](https://www.liverpool.ac.uk/management/)
 [![Accreditation: Triple Crown](https://img.shields.io/badge/Accreditation-AACSB%20%7C%20AMBA%20%7C%20EQUIS-gold.svg)](https://www.liverpool.ac.uk/management/about/accreditations/)
-[![Author: Charitha B.V.](https://img.shields.io/badge/Author-Charitha%20Balaka%20Venkatareddy-informational.svg)](https://orcid.org/0009-0008-2367-5269)
+[![Author: Charitha BV](https://img.shields.io/badge/Author-Charitha%20BV-informational.svg)](https://orcid.org/0009-0008-2367-5269)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--2367--5269-A6CE39.svg)](https://orcid.org/0009-0008-2367-5269)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Charitha%20Reddy-0077B5.svg)](https://www.linkedin.com/in/charitha-reddy-114456163/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -15,7 +15,7 @@
 
 | Academic Parameter | Institutional Record |
 |---|---|
-| **Author** | Charitha Balaka Venkatareddy (Charitha B.V.) |
+| **Author** | Charitha BV |
 | **Degree Awarded** | Master in Management (MiM) |
 | **Faculty & School** | University of Liverpool Management School (ULMS), United Kingdom |
 | **Business School Accreditation** | Triple-Crown Accredited (AACSB, AMBA, EQUIS) |
@@ -29,7 +29,7 @@ This repository archives the research dissertation and selected applied manageme
 
 ### Factors Influencing the Adoption and Effectiveness of Drone-Based Medical Transport: A Systematic Review
 
-* **Author:** Charitha Balaka Venkatareddy
+* **Author:** Charitha BV
 * **Supervisor:** Dr Martyn Bradley
 * **Awarding Department:** University of Liverpool Management School
 * **Date of Submission:** January 2026
