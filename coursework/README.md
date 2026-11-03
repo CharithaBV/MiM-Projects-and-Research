@@ -1,5 +1,5 @@
 # Coursework & Applied Management Studies
-**MSc in Management | University of Liverpool Management School**  
+**Master in Management | University of Liverpool Management School**  
 **Author:** Charitha Balaka Venkatareddy (ID: `201862489`)
 
 ---
@@ -14,7 +14,7 @@ This directory contains the core academic deliverables completed during the Mast
 
 | Document | Module / Context | Primary Methodology / Theoretical Lens | Format | Link |
 |---|---|---|---|:---:|
-| **Medical-Drone-Transport-SLR.pdf** | MSc Dissertation (Supervisor: Dr Martyn Bradley) | PRISMA 2020, MMAT 2018, TAM, UTAUT, Diffusion of Innovations | Empirical Dissertation (55 pages) | [Open PDF](Medical-Drone-Transport-SLR.pdf) |
+| **Medical-Drone-Transport-SLR.pdf** | Master's Dissertation (Supervisor: Dr Martyn Bradley) | PRISMA 2020, MMAT 2018, TAM, UTAUT, Diffusion of Innovations | Empirical Dissertation (55 pages) | [Open PDF](Medical-Drone-Transport-SLR.pdf) |
 | **Hybronn-Strategic-Simulation.pdf** | ULMJ719 Strategy Planning & Implementation | Porter's Five Forces, Resource-Based View (VRIN), Blue Ocean, Ansoff Matrix | Strategic Slide Deck (25 slides) | [Open PDF](Hybronn-Strategic-Simulation.pdf) |
 | **Hybronn-Organizational-Dynamics.pdf** | ULMJ719 Strategy & Organizational Behaviour | Belbin's Team Roles, Tuckman Model, Hackman Team Design, Bounded Rationality | Academic Review Poster | [Open PDF](Hybronn-Organizational-Dynamics.pdf) |
 | **Digital-Marketing-Proposal.pdf** | Marketing Management | Elaboration Likelihood Model (ELM), SMART Framework, Persona Mapping | Marketing Strategy Deck (22 slides) | [Open PDF](Digital-Marketing-Proposal.pdf) |
@@ -25,7 +25,7 @@ This directory contains the core academic deliverables completed during the Mast
 
 ### 1. Factors Influencing the Adoption and Effectiveness of Drone-Based Medical Transport: A Systematic Review
 * **File:** [`Medical-Drone-Transport-SLR.pdf`](Medical-Drone-Transport-SLR.pdf)
-* **Context:** 60-Credit Applied Research Dissertation, MSc Management (January 2026)
+* **Context:** 60-Credit Applied Research Dissertation, Master in Management (January 2026)
 * **Supervisor:** Dr Martyn Bradley
 * **Scope & Method:**
   - Formulated a systematic review protocol following PRISMA 2020 guidelines to evaluate barriers to routine drone integration in healthcare logistics.

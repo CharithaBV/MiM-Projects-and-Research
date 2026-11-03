@@ -1,4 +1,4 @@
-# Master in Management (MSc / MiM)
+# Master in Management (MiM)
 ### Research & Applied Management Portfolio | University of Liverpool Management School
 
 [![Institution: University of Liverpool](https://img.shields.io/badge/Institution-University%20of%20Liverpool-002147.svg)](https://www.liverpool.ac.uk/)
@@ -17,7 +17,7 @@
 |---|---|
 | **Author** | Charitha Balaka Venkatareddy (Charitha B.V.) |
 | **Student Identifier** | `201862489` |
-| **Degree Awarded** | Master in Management (MSc / MiM) |
+| **Degree Awarded** | Master in Management (MiM) |
 | **Faculty & School** | University of Liverpool Management School (ULMS), United Kingdom |
 | **Business School Accreditation** | Triple-Crown Accredited (AACSB, AMBA, EQUIS) |
 | **Profiles** | [ORCID: 0009-0008-2367-5269](https://orcid.org/0009-0008-2367-5269) \| [LinkedIn](https://www.linkedin.com/in/charitha-reddy-114456163/) |
